@@ -1,7 +1,7 @@
 # currency_converter
 
 A new Flutter project.
-<img src="Screenshot_1691218015.png" width="800"/>
+<img src="Screenshot_1691218015.png" width="300"/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
